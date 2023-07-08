@@ -18,9 +18,9 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: gun1507-test Blog                          # the main title
+title: gun1507-test-blog                          # the main title
 
-tagline: chirpy 테마 테스트 블로그 입니다.   # it will display as the sub-title
+tagline: 테마적용 테스트 블로그 입니다.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   focuschange, chirpy test
@@ -37,17 +37,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: gun1507
-  email: kgun1507@gmail.com
+  name: gun1507-test
+  email:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/gun1507       # change to your github homepage
+    - ''       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
-
-google_site_verification: 1gDBG1WGds1YWnMxTsZ7XKylUpVdqdzOVsd2_M_stqA
 
 # ↑ --------------------------
 
@@ -80,7 +78,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/assets/img/myava.jpeg'
+avatar: '/assets/img/favicons/apple-touch-icon.png'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
