@@ -23,7 +23,7 @@ title: gun1507-test-blog                          # the main title
 tagline: 테마적용 테스트 블로그 입니다.   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  focuschange, chirpy test
+  gun1507-test, chirpy test
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://gun1507-test.github.io'
